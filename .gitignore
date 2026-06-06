@@ -1,0 +1,18 @@
+#Ortam
+env/
+.env
+
+#Ptyhon
+__pycache__/
+*.pyc
+
+#Jupyter
+.ipynb_checkpoints/
+
+#veri dosyaları
+*.csv
+*.xlsx
+data/
+
+#Mac sistemi
+.DS_Store
